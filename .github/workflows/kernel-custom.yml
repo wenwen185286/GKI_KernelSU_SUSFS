@@ -41,11 +41,11 @@ on:
 
       # ==================== 可选配置 ====================
       version:
-        description: "自定义版本名 (可选)"
+        description: "5.10.101-android12-9-00005-ga829d48e78bd-ab9206161"
         required: false
         type: string
       build_time:
-        description: "自定义构建时间 (可选，N或留空=当前UTC)"
+        description: "#1 SMP PREEMPT Fri Oct 21 21:49:09 UTC 2022"
         required: false
         type: string
         default: "Sun Dec 01 08:10:00 UTC 2024"
